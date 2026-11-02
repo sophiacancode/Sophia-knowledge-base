@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "Kitten Health App: Cat Health Tracking App for Pet Owners"
 ---
 ## The index page
 
